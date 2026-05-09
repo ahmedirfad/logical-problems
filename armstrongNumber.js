@@ -13,7 +13,7 @@ function armstrongNumber(num){
     return arm === org;
 }
 
-for(let i = 1; i <= 1000; i++){
+for(let i = 10; i <= 1000; i++){
     if(armstrongNumber(i)){
         console.log(i);
         

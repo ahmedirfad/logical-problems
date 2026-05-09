@@ -11,5 +11,3 @@ function reverseNumber(num){
 
 console.log(reverseNumber(3456));
 console.log(reverseNumber(-3456));
-
-
